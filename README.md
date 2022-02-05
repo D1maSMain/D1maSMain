@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @D1maSMain
-- 👀 I’m interested in programming on C++, python, and arduino electronics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Welcome, I’m Dima
+- 😁 I'm there from Russia
+- 😲 I’m keen on programming on C++, python, and arduino electronics
+- 👀 My favorite lecture is a Harvard CS50.
+- 📫 You can reach me by this e-mail - slowtv583@gmail.com 
 
 <!---
 D1maSMain/D1maSMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
