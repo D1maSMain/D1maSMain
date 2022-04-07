@@ -1,5 +1,6 @@
 - 👋 Welcome, I’m Dima
 - 😁 I'm there from Russia
+- I'm twelve
 - 😲 I’m keen on programming on C++, python, and arduino electronics
 - 👀 My favorite lecture is a Harvard CS50.
 - 📫 You can reach me by this e-mail - slowtv583@gmail.com 
